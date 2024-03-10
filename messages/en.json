@@ -1,0 +1,44 @@
+{
+  "Metadata": {
+    "applicationName": "Catology Exam",
+    "keywords": "Cats, Exam, Test",
+    "creator": "Bohdan",
+    "publisher": "Yuliia",
+    "title": {
+      "default": "Catology",
+      "template": "%s | Catology Exam"
+    },
+    "description": "Fun facts about cats"
+  },
+  "Home": {
+    "headline": "Catology Exam",
+    "caption": "Fun facts about cats",
+    "start": "Let’s start",
+    "loading": "Loading...",
+    "fields": {
+      "name": {
+        "label": "Your name",
+        "placeholder": "Tom"
+      },
+      "group": {
+        "label": "Your group",
+        "placeholder": ""
+      }
+    }
+  },
+  "Question": {
+    "loading": "Loading...",
+    "next": "Next question",
+    "back": "Go Back",
+    "finish": "Finish"
+  },
+  "Result": {
+    "headline": "Well Done!",
+    "caption": "Take a cup of tea ☕",
+    "score": "Your Score",
+    "download": {
+      "caption": "Click here to download your answers:",
+      "button": "Download"
+    }
+  }
+}

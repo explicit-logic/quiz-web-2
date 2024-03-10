@@ -1,0 +1,44 @@
+{
+  "Metadata": {
+    "applicationName": "Catology Exam",
+    "keywords": "Коти, Питання",
+    "creator": "Богдан",
+    "publisher": "Юлія",
+    "title": {
+      "default": "Котологія",
+      "template": "%s | Котологія"
+    },
+    "description": "П'ять питань, які перевірять вас на знання світу котів"
+  },
+  "Home": {
+    "headline": "Екзамен з котології",
+    "caption": "П'ять питань, які перевірять вас на знання світу котів",
+    "start": "Почати",
+    "loading": "Завантаження...",
+    "fields": {
+      "name": {
+        "label": "Ваше імʼя",
+        "placeholder": "Кіт Степан"
+      },
+      "group": {
+        "label": "Ваша група",
+        "placeholder": ""
+      }
+    }
+  },
+  "Question": {
+    "loading": "Завантаження...",
+    "next": "Далі",
+    "back": "Назад",
+    "finish": "Закінчити"
+  },
+  "Result": {
+    "headline": "Готово!",
+    "caption": "Тепер можно попити чаю ☕",
+    "score": "Ваш результат",
+    "download": {
+      "caption": "Натисніть тут щоб завантажити відповіді:",
+      "button": "Завантажити"
+    }
+  }
+}
